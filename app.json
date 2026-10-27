@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "RPG Hero Creator",
+    "slug": "rpg-hero-creator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Aplikacja potrzebuje dostępu do galerii, aby wybrać portret bohatera."
+        }
+      ]
+    ]
+  }
+}

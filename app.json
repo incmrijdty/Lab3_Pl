@@ -11,7 +11,9 @@
         {
           "photosPermission": "Aplikacja potrzebuje dostępu do galerii, aby wybrać portret bohatera."
         }
-      ]
+      ],
+      "expo-audio",
+      "expo-font"
     ]
   }
 }
